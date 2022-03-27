@@ -1,0 +1,9 @@
+.app {
+  margin: 5rem auto;
+  display: flex;
+  text-align: center;
+  width: 90%;
+  max-width: 48rem;
+  min-width: 24rem;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
